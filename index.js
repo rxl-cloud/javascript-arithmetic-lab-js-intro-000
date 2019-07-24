@@ -1,7 +1,6 @@
 var a = 3
-var b = 4
 
-function add(a,b) {
- a += b  
-  console.log(a+b)
+function add5(a) {
+ a += 5
+  console.log(a)
 }
