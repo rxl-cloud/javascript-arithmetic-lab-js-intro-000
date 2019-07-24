@@ -1,6 +1,6 @@
 var a = 3
 
 function add(a,b) {
- a += 5
+ a + b
   console.log(a)
 }
